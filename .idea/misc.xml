@@ -6,8 +6,11 @@
         <entry key="..\:/android projects/NavigationComponentCAT/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
         <entry key="..\:/android projects/NavigationComponentCAT/app/src/main/res/layout/fragment_category.xml" value="0.25052083333333336" />
         <entry key="..\:/android projects/NavigationComponentCAT/app/src/main/res/layout/fragment_home.xml" value="0.25052083333333336" />
-        <entry key="..\:/android projects/NavigationComponentCAT/app/src/main/res/layout/fragment_profile.xml" value="0.25052083333333336" />
+        <entry key="..\:/android projects/NavigationComponentCAT/app/src/main/res/layout/fragment_login.xml" value="0.25052083333333336" />
+        <entry key="..\:/android projects/NavigationComponentCAT/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/android projects/NavigationComponentCAT/app/src/main/res/layout/fragment_welcom.xml" value="0.25052083333333336" />
         <entry key="..\:/android projects/NavigationComponentCAT/app/src/main/res/menu/nav_menu.xml" value="0.25052083333333336" />
+        <entry key="..\:/android projects/NavigationComponentCAT/app/src/main/res/menu/slider_menu.xml" value="0.1" />
       </map>
     </option>
   </component>

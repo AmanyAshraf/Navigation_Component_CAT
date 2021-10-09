@@ -5,25 +5,24 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    tools:context=".UI.Fragment.HomeFragment"
-   >
+    tools:context=".UI.main.LoginFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="wrap_content"
+   <EditText
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/et1"
+       android:hint="username"/>
+    <EditText
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:text="Home"
-        android:textSize="48sp"
-        android:textColor="@color/black"
-        android:textStyle="bold"/>
+        android:id="@+id/et2"
+        android:hint="password"/>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Login"
-        android:textAllCaps="false"
-        android:layout_marginTop="8dp"
-        android:id="@+id/btn_login"/>
-
+        android:id="@+id/btn_send"
+        android:text="Send"
+        android:textAllCaps="false"/>
 
 </LinearLayout>
